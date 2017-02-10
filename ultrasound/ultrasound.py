@@ -16,8 +16,6 @@ TOPIC_NAME = ""
 
 def measurementInCM():
 
-    def measurementInCM():
-
     # setup the GPIO_PIN_SIG as output
     GPIO.setup(GPIO_PIN_SIG, GPIO.OUT)
 
